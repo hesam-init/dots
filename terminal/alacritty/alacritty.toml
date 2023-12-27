@@ -1,5 +1,8 @@
 # version 13 or above support toml config
 
+# for windows move this folder to %APPDATA% path
+# for linux move this folder to $HOME/.config/ path
+
 import = ["./alacritty-themes/carbonfox.toml"]
 
 [shell]
