@@ -1,0 +1,72 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.1.0.json",
+    "WinGetVersion": "0.3.11201",
+    "Sources": [
+        {
+            "Packages": [
+                {
+                    "Id": "CoreyButler.NVMforWindows",
+                    "Name": "NVM for Windows"
+                },
+                {
+                    "Id": "Microsoft.VisualStudioCode",
+                    "Name": "Visual Studio Code"
+                },
+                {
+                    "Id": "Microsoft.WindowsTerminal",
+                    "Name": "Windows Terminal"
+                },
+                {
+                    "Id": "ShareX.ShareX",
+                    "Name": "ShareX"
+                },
+                {
+                    "Id": "GIMP.GIMP",
+                    "Name": "GIMP"
+                },
+                {
+                    "Id": "Notion.Notion",
+                    "Name": "Notion"
+                },
+                {
+                    "Id": "VideoLAN.VLC",
+                    "Name": "VLC media player"
+                },
+                {
+                    "Id": "Valve.Steam",
+                    "Name": "Steam"
+                },
+                {
+                    "Id": "Discord.Discord",
+                    "Name": "Discord"
+                },
+                {
+                    "Id": "EpicGames.EpicGamesLauncher",
+                    "Name": "Epic Games Launcher"
+                },
+                {
+                    "Id": "Debian.Debian",
+                    "Name": "Debian WSL distribution"
+                },
+                {
+                    "Id": "Telegram.TelegramDesktop",
+                    "Name": "Telegram Desktop"
+                },
+                {
+                    "Id": "2dust.v2rayN",
+                    "Name": "v2rayN VPN client"
+                },
+                {
+                    "Id": "Microsoft.PowerToys",
+                    "Name": "Microsoft PowerToys"
+                }
+            ],
+            "SourceDetails": {
+                "Argument": "https://winget.azureedge.net/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        }
+    ]
+}
